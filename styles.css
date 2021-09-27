@@ -26,3 +26,7 @@ body {
     margin-bottom: 1rem;
     user-select: none;
 }
+
+.btn:hover {
+    box-shadow: #eee 1px 0px 6px 2px;
+}
